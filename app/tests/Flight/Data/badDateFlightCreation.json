@@ -1,0 +1,9 @@
+{
+    "registration": "OO-AAC",
+    "from": "STN",
+    "to": "BER",
+    "scheduled_start": "2021-12-+00:00",
+    "scheduled_end": "2021-12-17:30:00+00:00",
+    "actual_start": "2021-12-17T10::00+00:00",
+    "actual_end": "2021-12-17T11::00+00:00"
+}
